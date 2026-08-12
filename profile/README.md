@@ -1,5 +1,5 @@
 <div align="center">
-  <img src ="royma-banner.svg" />
+  <img src ="portada-royma.jpg" />
 </div>
 
 </br></br>
